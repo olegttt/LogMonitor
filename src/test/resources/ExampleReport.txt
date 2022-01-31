@@ -1,0 +1,9 @@
+All errors count: 3
+Count errors of User ID [123] = 1
+Count errors of User ID [256] = 0
+Count errors of User ID [190] = 2
+
+Errors Log:
+2019-4-1 13:33:54 [123] ERROR: Some exception occured
+2019-4-1 13:33:57 [190] ERROR: Invalid input
+2019-4-1 13:33:58 [190] ERROR: Invalid input
